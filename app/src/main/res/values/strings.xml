@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AllSalary5</string>
+    <string name="move_to_login_button">move_to_login</string>
+    <string name="create_account_button">create_account_button</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="drawer_open">0x7f050013</string>
+    <string name="drawer_close">0x7f050012</string>
+    <string name="action_settings">"android.settings.SETTINGS"</string>
+    <string name="add_item">add</string>
+</resources>
